@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ■ サービス概要
 段々と定着してきているメンズのコスメに詳しくなりたい、流行に遅れたくないといった悩みを持った人に
 メンズコスメに特化した様々な情報を共有できる場を提供する
@@ -30,3 +31,29 @@
 ■スケジュール
 メイン機能実装：11/25 - 12/25までに完成させる。
 本番リリース：1月中
+=======
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+>>>>>>> e76ba13 (first commit)
